@@ -1,0 +1,1 @@
+sex:F age:40 cho:105 smo:N hdl:60 sbp:100 med:N out:<1
