@@ -44,13 +44,13 @@ if num > 0:
 else:
     print("Not positive")
 ```
-then you only need two test cases: a number greater than zero and a number that's not. There is no need to have infinite test cases to test every possible number, just one to check the `if` and one to check the `else`.
+then you only need two test cases: a value for `num` greater than zero and a value that's not. There is no need to have infinite test cases to test every possible value for `num`, just one to check the `if` and one to check the `else`.
 
 
 ## Frequently Asked Questions
 1. **Do we really need to write a lot of test cases?** Only if you want full credit. :)
 
-2. **What is the minimum number of test cases needed for full credit?** I don't know... just keep writing more test cases!
+2. **What is the minimum number of test cases needed for full credit?** The theoretical minimum is 50, but that's really difficult to do. If you think carefully, you can easily obtain full credit with fewer than 100 test cases. If you don't yet have enough... just keep writing more test cases!
 
 Have a question you don't see here? Email your instructor!
 
