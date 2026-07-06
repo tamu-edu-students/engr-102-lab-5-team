@@ -10,7 +10,7 @@ In engineering and science, it is common that we want to calculate the effect of
  
 In this lab you will be writing test cases for a model that has previously been created that may then be used to write a program to use that model to give a user a prediction. In this case, the model that has been developed is to estimate someone's 10-year risk for likelihood of a heart attack, developed by the NIH. This model was constructed from data analysis of various factors that have been demonstrated to contribute to heart attacks for those ages 20-70.
 
-The process is outlined on the final page of [this document](Lab_Topic_5_team_doc.pdf) (also posted to Canvas). Note that the model works by taking several factors, assigning "point" values to them, and calculating an overall risk based on the sum of those points. Your team will focus on the table on the last page of the document for this activity.
+The process is outlined [on this page](Lab_Topic_5_team_doc.md). Note that the model works by taking several factors, assigning "point" values to them, and calculating an overall risk based on the sum of those points.
 
 Begin by considering what variables might be used to construct a program to calculate someone’s 10-year risk. Also consider a sequence of steps needed to write such a program. Note that you do **NOT** need to create this program, only discuss with your team *how* one may be written (an algorithm).
 
@@ -55,4 +55,4 @@ then you only need two test cases: a value for `num` greater than zero and a val
 Have a question you don't see here? Email your instructor!
 
 Based upon Dr. Keyser’s Original<br/>
-Revised Summer 2025 SNR
+Revised Summer 2026 SNR
