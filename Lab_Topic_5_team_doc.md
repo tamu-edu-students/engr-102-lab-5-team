@@ -1,7 +1,8 @@
 # Estimate of 10-Year Risk of Developing Heart Disease or Having a Heart Attack
-Tables taken from US Department of Health and Human Services, [NIH Publication No. 05-3290](https://communitypharmacyfoundation.org/resources/grant_docs/CPFGrantDoc_95283.pdf), Originally printed May 2001, Revised June 2005
+Tables taken from the last page of US Department of Health and Human Services, [NIH Publication No. 05-3290](https://communitypharmacyfoundation.org/resources/grant_docs/CPFGrantDoc_95283.pdf), Originally printed May 2001, Revised June 2005
 
 ## Women
+Below are the data tables for women. Add up the point total, then consult the last table to determine 10-Year Risk %.
 | Age | Points |
 | :---: | :------: |
 | 20-34 | -7 |
@@ -71,6 +72,7 @@ Tables taken from US Department of Health and Human Services, [NIH Publication N
 
 
 ## Men
+Below are the data tables for men. Add up the point total, then consult the last table to determine 10-Year Risk %.
 | Age | Points |
 | :---: | :------: |
 | 20-34 | -9 |
