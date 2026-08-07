@@ -1,0 +1,142 @@
+# Estimate of 10-Year Risk of Developing Heart Disease or Having a Heart Attack
+Tables taken from the last page of US Department of Health and Human Services, [NIH Publication No. 05-3290](https://communitypharmacyfoundation.org/resources/grant_docs/CPFGrantDoc_95283.pdf), Originally printed May 2001, Revised June 2005
+
+## Women
+Below are the data tables for women. Add up the point total, then consult the last table to determine 10-Year Risk %.
+| Age | Points |
+| :---: | :------: |
+| 20-34 | -7 |
+| 35-39 | -3 |
+| 40-44 | 0 |
+| 45-49 | 3 |
+| 50-54 | 6 |
+| 55-59 | 8 |
+| 60-64 | 10 |
+| 65-69 | 12 |
+| 70-74 | 14 |
+| 75-79 | 16 |
+
+
+| Total Cholesterol | Age 20-39 | Age 40-49 | Age 50-59 | Age 60-69 | Age 70-79 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <160 | 0 | 0 | 0 | 0 | 0 |
+| 160-199 | 4 | 3 | 2 | 1 | 1 |
+| 200-239 | 8 | 6 | 4 | 2 | 1 |
+| 240-279 | 11 | 8 | 5 | 3 | 2 |
+| ≥280 | 13 | 10 | 7 | 4 | 2 |
+
+
+| | Age 20-39 | Age 40-49 | Age 50-59 | Age 60-69 | Age 70-79 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Nonsmoker | 0 | 0 | 0 | 0 | 0 |
+| Smoker | 9 | 7 | 4 | 2 | 1 |
+
+
+| HDL (mg/dL) | Points |
+| :---: | :---: |
+| ≥60 | -1 |
+| 50-59 | 0 |
+| 40-49 | 1 |
+| <40 | 2 |
+
+
+| Systolic BP (mmHg) | If Untreated | If Treated |
+| :---: | :---: | :---: |
+| <120 | 0 | 0 |
+| 120-129 | 1 | 3 |
+| 130-139 | 2 | 4 |
+| 140-159 | 3 | 5 |
+| ≥160 | 4 | 6 |
+
+
+| Point Total | 10-Year Risk % |
+| :---: | :---: |
+| <9 | <1 |
+| 9 | 1 |
+| 10 | 1 |
+| 11 | 1 |
+| 12 | 1 |
+| 13 | 2 |
+| 14 | 2 |
+| 15 | 3 |
+| 16 | 4 |
+| 17 | 5 |
+| 18 | 6 |
+| 19 | 8 |
+| 20 | 11 |
+| 21 | 14 |
+| 22 | 17 |
+| 23 | 22 |
+| 24 | 27 |
+| ≥25 | ≥30 |
+
+
+## Men
+Below are the data tables for men. Add up the point total, then consult the last table to determine 10-Year Risk %.
+| Age | Points |
+| :---: | :------: |
+| 20-34 | -9 |
+| 35-39 | -4 |
+| 40-44 | 0 |
+| 45-49 | 3 |
+| 50-54 | 6 |
+| 55-59 | 8 |
+| 60-64 | 10 |
+| 65-69 | 11 |
+| 70-74 | 12 |
+| 75-79 | 13 |
+
+
+| Total Cholesterol | Age 20-39 | Age 40-49 | Age 50-59 | Age 60-69 | Age 70-79 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <160 | 0 | 0 | 0 | 0 | 0 |
+| 160-199 | 4 | 3 | 2 | 1 | 0 |
+| 200-239 | 7 | 5 | 3 | 1 | 0 |
+| 240-279 | 9 | 6 | 4 | 2 | 1 |
+| ≥280 | 11 | 8 | 5 | 3 | 1 |
+
+
+| | Age 20-39 | Age 40-49 | Age 50-59 | Age 60-69 | Age 70-79 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Nonsmoker | 0 | 0 | 0 | 0 | 0 |
+| Smoker | 8 | 5 | 3 | 1 | 1 |
+
+
+| HDL (mg/dL) | Points |
+| :---: | :---: |
+| ≥60 | -1 |
+| 50-59 | 0 |
+| 40-49 | 1 |
+| <40 | 2 |
+
+
+| Systolic BP (mmHg) | If Untreated | If Treated |
+| :---: | :---: | :---: |
+| <120 | 0 | 0 |
+| 120-129 | 0 | 1 |
+| 130-139 | 1 | 2 |
+| 140-159 | 1 | 2 |
+| ≥160 | 2 | 3 |
+
+
+| Point Total | 10-Year Risk % |
+| :---: | :---: |
+| <0 | <1 |
+| 0 | 1 |
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 1 |
+| 5 | 2 |
+| 6 | 2 |
+| 7 | 3 |
+| 8 | 4 |
+| 9 | 5 |
+| 10 | 6 |
+| 11 | 8 |
+| 12 | 10 |
+| 13 | 12 |
+| 14 | 16 |
+| 15 | 20 |
+| 16 | 25 |
+| ≥17 | ≥30 |
